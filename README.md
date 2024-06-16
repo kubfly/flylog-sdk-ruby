@@ -1,2 +1,2 @@
-# flylog-sdk-ruby
-FlyLog SDK for Ruby
+# FlyLog SDK for Ruby
+Provides Ruby API for application development with FlyLog framework.
